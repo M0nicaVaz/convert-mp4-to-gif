@@ -12,7 +12,7 @@ Para rodar a aplicação, você vai precisar ter instalado em sua máquina:
 1. Clone este repositório
 
 ```bash
-git clone <https://github.com/M0nicaVaz/mp4-to-gif.git>
+git clone https://github.com/M0nicaVaz/convert-mp4-to-gif.git
 ```
 
 2. Acesse a pasta do projeto no terminal
