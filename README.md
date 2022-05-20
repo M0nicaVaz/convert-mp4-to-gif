@@ -29,12 +29,12 @@ cd mp4-to-gif
 
 ## Utilizando a aplicação
 
-1. Mova uma cópia do video `.mp4` para a pasta `./mp4-to-gif/videos/`
+1. Mova uma cópia do video `.mp4` para a pasta `./convert-mp4-to-gif/videos/`
    <br>
 
 2. Use o comando `node index.js` + o título do vídeo. <br> Ex: `node index.js meuvideo.mp4`
 
-### ❗️ Avisos:
+#### ❗️ Avisos:
 
 - É feita uma conversão por vez.
 
