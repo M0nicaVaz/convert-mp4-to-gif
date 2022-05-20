@@ -1,13 +1,13 @@
-# Convertendo Video em Gif
+# Convertendo Vídeo em Gif
 
 Aplicação simples para converter vídeo no formato `.mp4` para `.gif`, sem abrir o navegador.
 
-#### Pré-requisitos
+## Pré-requisitos
 
 Para rodar a aplicação, você vai precisar ter instalado em sua máquina:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o [ffmpeg](https://www.npmjs.com/package/ffmpeg-utils2).
 
-#### Configurando o ambiente
+## Configurando o ambiente
 
 1. Clone este repositório
 
@@ -27,14 +27,14 @@ cd mp4-to-gif
  npm install
 ```
 
-#### Utilizando a aplicação
+## Utilizando a aplicação
 
 1. Mova uma cópia do video `.mp4` para a pasta `./mp4-to-gif/videos/`
    <br>
 
 2. Use o comando `node index.js` + o título do vídeo. <br> Ex: `node index.js meuvideo.mp4`
 
-##### ❗️ Avisos:
+### ❗️ Avisos:
 
 - É feita uma conversão por vez.
 
